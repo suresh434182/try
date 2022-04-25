@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\bin\Debug\Phone_num_validation.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\bin\Debug\Phone_num_validation.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\bin\Debug\Phone_num_validation.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\obj\Debug\Phone_num_validation.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\obj\Debug\Phone_num_validation.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\obj\Debug\Phone_num_validation.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Phone_num_validation\obj\Debug\Phone_num_validation.pdb

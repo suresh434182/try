@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\obj\Debug\Sumit_validation.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\obj\Debug\Sumit_validation.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\bin\Debug\Sumit_validation.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\bin\Debug\Sumit_validation.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\bin\Debug\Sumit_validation.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\obj\Debug\Sumit_validation.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Phone_num_validation\Sumit_validation\obj\Debug\Sumit_validation.pdb

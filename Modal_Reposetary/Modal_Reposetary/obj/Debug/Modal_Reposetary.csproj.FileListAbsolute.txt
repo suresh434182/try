@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\bin\Debug\Modal_Reposetary.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\bin\Debug\Modal_Reposetary.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\bin\Debug\Modal_Reposetary.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\obj\Debug\Modal_Reposetary.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\obj\Debug\Modal_Reposetary.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\obj\Debug\Modal_Reposetary.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\obj\Debug\Modal_Reposetary.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Modal_Reposetary\Modal_Reposetary\obj\Debug\Modal_Reposetary.pdb

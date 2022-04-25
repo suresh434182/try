@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\bin\Debug\Product_List.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\bin\Debug\Product_List.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\bin\Debug\Product_List.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\obj\Debug\Product_List.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\obj\Debug\Product_List.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\obj\Debug\Product_List.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Product_List\Product_List\obj\Debug\Product_List.pdb

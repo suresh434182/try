@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menu_Driven_Temprature_converter", "Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter.csproj", "{C99F9C0A-1202-4B87-BF3E-85690EA68A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C99F9C0A-1202-4B87-BF3E-85690EA68A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99F9C0A-1202-4B87-BF3E-85690EA68A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99F9C0A-1202-4B87-BF3E-85690EA68A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99F9C0A-1202-4B87-BF3E-85690EA68A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909826F4-5663-4CF0-BC96-551D8C617598}
+	EndGlobalSection
+EndGlobal

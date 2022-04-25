@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\bin\Debug\Menu_Driven_Temprature_converter.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\bin\Debug\Menu_Driven_Temprature_converter.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\bin\Debug\Menu_Driven_Temprature_converter.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\obj\Debug\Menu_Driven_Temprature_converter.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\obj\Debug\Menu_Driven_Temprature_converter.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\obj\Debug\Menu_Driven_Temprature_converter.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Menu_Driven_Temprature_converter\Menu_Driven_Temprature_converter\obj\Debug\Menu_Driven_Temprature_converter.pdb
