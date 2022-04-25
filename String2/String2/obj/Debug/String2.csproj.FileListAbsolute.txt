@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\bin\Debug\String2.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\bin\Debug\String2.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\bin\Debug\String2.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\obj\Debug\String2.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\obj\Debug\String2.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\obj\Debug\String2.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\obj\Debug\String2.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\String2\String2\obj\Debug\String2.pdb

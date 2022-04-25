@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\bin\Debug\Temprature.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\bin\Debug\Temprature.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\bin\Debug\Temprature.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\obj\Debug\Temprature.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\obj\Debug\Temprature.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\obj\Debug\Temprature.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temprature\Temprature\obj\Debug\Temprature.pdb

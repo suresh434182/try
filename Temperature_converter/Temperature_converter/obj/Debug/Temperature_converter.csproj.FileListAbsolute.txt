@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\bin\Debug\Temperature_converter.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\bin\Debug\Temperature_converter.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\bin\Debug\Temperature_converter.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\obj\Debug\Temperature_converter.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\obj\Debug\Temperature_converter.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\obj\Debug\Temperature_converter.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Temperature_converter\Temperature_converter\obj\Debug\Temperature_converter.pdb
