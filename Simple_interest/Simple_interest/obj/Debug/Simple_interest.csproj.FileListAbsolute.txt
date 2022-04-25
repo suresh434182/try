@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\bin\Debug\Simple_interest.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\bin\Debug\Simple_interest.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\bin\Debug\Simple_interest.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\obj\Debug\Simple_interest.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\obj\Debug\Simple_interest.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\obj\Debug\Simple_interest.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\obj\Debug\Simple_interest.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest\Simple_interest\obj\Debug\Simple_interest.pdb

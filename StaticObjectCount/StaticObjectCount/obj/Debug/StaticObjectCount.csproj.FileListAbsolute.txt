@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\bin\Debug\StaticObjectCount.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\bin\Debug\StaticObjectCount.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\bin\Debug\StaticObjectCount.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\obj\Debug\StaticObjectCount.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\obj\Debug\StaticObjectCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\obj\Debug\StaticObjectCount.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\obj\Debug\StaticObjectCount.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\StaticObjectCount\StaticObjectCount\obj\Debug\StaticObjectCount.pdb

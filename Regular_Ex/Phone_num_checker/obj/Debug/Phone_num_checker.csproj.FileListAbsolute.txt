@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\bin\Debug\Phone_num_checker.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\bin\Debug\Phone_num_checker.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\bin\Debug\Phone_num_checker.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\obj\Debug\Phone_num_checker.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\obj\Debug\Phone_num_checker.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\obj\Debug\Phone_num_checker.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Phone_num_checker\obj\Debug\Phone_num_checker.pdb

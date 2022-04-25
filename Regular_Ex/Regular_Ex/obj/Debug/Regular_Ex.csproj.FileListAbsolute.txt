@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\bin\Debug\Regular_Ex.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\bin\Debug\Regular_Ex.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\bin\Debug\Regular_Ex.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\obj\Debug\Regular_Ex.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\obj\Debug\Regular_Ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\obj\Debug\Regular_Ex.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\obj\Debug\Regular_Ex.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Regular_Ex\Regular_Ex\obj\Debug\Regular_Ex.pdb

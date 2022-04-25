@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\bin\Debug\Simple_interest_itrative.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\bin\Debug\Simple_interest_itrative.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\bin\Debug\Simple_interest_itrative.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\obj\Debug\Simple_interest_itrative.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\obj\Debug\Simple_interest_itrative.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\obj\Debug\Simple_interest_itrative.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\obj\Debug\Simple_interest_itrative.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Simple_interest_itrative\Simple_interest_itrative\obj\Debug\Simple_interest_itrative.pdb

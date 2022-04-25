@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\bin\Debug\SimpleInterest_divide_by_age.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\bin\Debug\SimpleInterest_divide_by_age.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\bin\Debug\SimpleInterest_divide_by_age.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\obj\Debug\SimpleInterest_divide_by_age.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\obj\Debug\SimpleInterest_divide_by_age.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\obj\Debug\SimpleInterest_divide_by_age.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\obj\Debug\SimpleInterest_divide_by_age.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\SimpleInterest_divide_by_age\SimpleInterest_divide_by_age\obj\Debug\SimpleInterest_divide_by_age.pdb
