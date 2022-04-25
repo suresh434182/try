@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\bin\Debug\Jugged_Dynamic_array.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\bin\Debug\Jugged_Dynamic_array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\bin\Debug\Jugged_Dynamic_array.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\obj\Debug\Jugged_Dynamic_array.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\obj\Debug\Jugged_Dynamic_array.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\obj\Debug\Jugged_Dynamic_array.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\obj\Debug\Jugged_Dynamic_array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Jugged_Dynamic_array\Jugged_Dynamic_array\obj\Debug\Jugged_Dynamic_array.pdb

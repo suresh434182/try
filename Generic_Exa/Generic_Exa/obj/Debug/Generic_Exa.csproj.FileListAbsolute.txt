@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\bin\Debug\Generic_Exa.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\bin\Debug\Generic_Exa.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\bin\Debug\Generic_Exa.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\obj\Debug\Generic_Exa.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\obj\Debug\Generic_Exa.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\obj\Debug\Generic_Exa.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\obj\Debug\Generic_Exa.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Generic_Exa\Generic_Exa\obj\Debug\Generic_Exa.pdb

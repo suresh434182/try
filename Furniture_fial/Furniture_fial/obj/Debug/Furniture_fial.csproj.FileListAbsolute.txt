@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\bin\Debug\Furniture_fial.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\bin\Debug\Furniture_fial.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\bin\Debug\Furniture_fial.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\obj\Debug\Furniture_fial.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\obj\Debug\Furniture_fial.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\obj\Debug\Furniture_fial.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Furniture_fial\Furniture_fial\obj\Debug\Furniture_fial.pdb

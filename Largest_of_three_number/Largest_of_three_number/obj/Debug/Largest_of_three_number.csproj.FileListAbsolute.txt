@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\bin\Debug\Largest_of_three_number.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\bin\Debug\Largest_of_three_number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\bin\Debug\Largest_of_three_number.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\obj\Debug\Largest_of_three_number.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\obj\Debug\Largest_of_three_number.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\obj\Debug\Largest_of_three_number.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\obj\Debug\Largest_of_three_number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Largest_of_three_number\Largest_of_three_number\obj\Debug\Largest_of_three_number.pdb

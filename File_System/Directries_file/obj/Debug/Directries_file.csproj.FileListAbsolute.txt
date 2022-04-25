@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\bin\Debug\Directries_file.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\bin\Debug\Directries_file.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\bin\Debug\Directries_file.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\obj\Debug\Directries_file.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\obj\Debug\Directries_file.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\obj\Debug\Directries_file.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\obj\Debug\Directries_file.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\File_System\Directries_file\obj\Debug\Directries_file.pdb
