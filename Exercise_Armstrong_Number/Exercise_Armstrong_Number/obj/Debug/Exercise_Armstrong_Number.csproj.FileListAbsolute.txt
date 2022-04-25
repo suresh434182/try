@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\bin\Debug\Exercise_Armstrong_Number.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\bin\Debug\Exercise_Armstrong_Number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\bin\Debug\Exercise_Armstrong_Number.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\obj\Debug\Exercise_Armstrong_Number.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\obj\Debug\Exercise_Armstrong_Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\obj\Debug\Exercise_Armstrong_Number.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\obj\Debug\Exercise_Armstrong_Number.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Exercise_Armstrong_Number\Exercise_Armstrong_Number\obj\Debug\Exercise_Armstrong_Number.pdb

@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\bin\Debug\Excercies_Average_Array.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\bin\Debug\Excercies_Average_Array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\bin\Debug\Excercies_Average_Array.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\obj\Debug\Excercies_Average_Array.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\obj\Debug\Excercies_Average_Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\obj\Debug\Excercies_Average_Array.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\obj\Debug\Excercies_Average_Array.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercies_Average_Array\Excercies_Average_Array\obj\Debug\Excercies_Average_Array.pdb

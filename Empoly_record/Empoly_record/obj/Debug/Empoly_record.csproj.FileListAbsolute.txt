@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\bin\Debug\Empoly_record.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\bin\Debug\Empoly_record.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\bin\Debug\Empoly_record.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\obj\Debug\Empoly_record.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\obj\Debug\Empoly_record.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\obj\Debug\Empoly_record.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\obj\Debug\Empoly_record.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Empoly_record\Empoly_record\obj\Debug\Empoly_record.pdb

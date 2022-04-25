@@ -1,0 +1,7 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\bin\Debug\Excercise_2_Average_Temprature.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\bin\Debug\Excercise_2_Average_Temprature.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\bin\Debug\Excercise_2_Average_Temprature.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\obj\Debug\Excercise_2_Average_Temprature.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\obj\Debug\Excercise_2_Average_Temprature.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\obj\Debug\Excercise_2_Average_Temprature.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\Excercise_2_Average_Temprature\Excercise_2_Average_Temprature\obj\Debug\Excercise_2_Average_Temprature.pdb

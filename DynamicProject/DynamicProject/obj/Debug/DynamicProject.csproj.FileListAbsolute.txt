@@ -1,0 +1,8 @@
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\bin\Debug\DynamicProject.exe.config
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\bin\Debug\DynamicProject.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\bin\Debug\DynamicProject.pdb
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\obj\Debug\DynamicProject.csproj.AssemblyReference.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\obj\Debug\DynamicProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\obj\Debug\DynamicProject.csproj.CoreCompileInputs.cache
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\obj\Debug\DynamicProject.exe
+C:\Users\VMUser.CG-Nwk-VM\source\repos\DynamicProject\DynamicProject\obj\Debug\DynamicProject.pdb
